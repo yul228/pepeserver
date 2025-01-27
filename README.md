@@ -1,8 +1,8 @@
 
-$ npm run start
+npm run start
 
-# watch mode
-$ npm run start:dev
+ watch mode
+npm run start:dev
 
-# production mode
-$ npm run start:prod
+ production mode
+npm run start:prod
